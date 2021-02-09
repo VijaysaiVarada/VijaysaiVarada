@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **VijaysaiVarada/VijaysaiVarada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :zap: I love data science,math, programming
+- 🌱 I'm addicted to learning, implementing innovative thoughts
+- 📫 How to find me: 
+  - :office:  [LinkedIn](https://www.linkedin.com/in/vijaysaivarada/)
